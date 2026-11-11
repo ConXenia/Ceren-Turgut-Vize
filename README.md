@@ -1,7 +1,7 @@
 # 3D Top Toplama Oyunu
 
 Ad Soyad: Ceren Turgut
-Öğrenci No: 2502040019
+Öğrenci No: 2602020034
 Ders: DOT6105 – Oyun İçin Kod Yazımı I (Vize Ödevi)  
 
 ## Oyunun Kısa Açıklaması
